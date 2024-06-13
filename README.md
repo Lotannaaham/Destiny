@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on Any Project that help enhance my knowledge
 - 📫 You reach on Destinyaham@mail.com 
-- ⚡ Fun fact: I am a really fast learner and an Igbo guy
 
 <!---
 Lotannaaham/Lotannaaham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

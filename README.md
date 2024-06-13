@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on Any Project that help enhance my knowledge
 - 📫 You reach on Destinyaham@mail.com 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am a really fast learner and an Igbo guy
 
 <!---

@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Destiny Lotanna Aham
+- 👀 I’m interested in Programming/Coding
+- 🌱 I’m currently learning Web Devlopment
+- 💞️ I’m looking to collaborate on Any Project that help enhance my knowledge
+- 📫 You reach on Destinyaham@mail.com 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am a really fast learner and an Igbo guy
+
+<!---
+Lotannaaham/Lotannaaham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
